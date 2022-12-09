@@ -19,3 +19,7 @@ body {
   font-weight: 700;
   background-color: var(--light-grayish-cyan);
 }
+
+.calcCard {
+  background-color: var(--white);
+}
