@@ -17,4 +17,5 @@
 body {
   font-family: 'Space Mono', sans-serif, monospace;
   font-weight: 700;
+  background-color: var(--light-grayish-cyan);
 }
