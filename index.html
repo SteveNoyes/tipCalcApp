@@ -10,35 +10,49 @@
   <!-- Favicon -->
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
   <!-- Title -->
-  <title>Tip Calculator App</title>
+  <title>Splitter</title>
   <!-- CSS -->
   <link rel="stylesheet" href="./css/reset.css">
   <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
-
-  Bill
-
-  Select Tip %
-  5%
-  10%
-  15%
-  25%
-  50%
-  Custom
-
-  Number of People
-
-  Tip Amount
-  / person
-
-  Total
-  / person
-
-  Reset
-  
+  <img src="./images/logo.svg" alt="Splitter">
+  <div class="calcCard">
+    <h1>Bill</h1>
+    <div class="totalDisplay">
+      <img src="./images/icon-dollar.svg" alt="Dollar Symbol">
+      <input type="text" placeholder="142.55">
+    </div>
+    <div class="selectTip">
+      <h3>Select Tip %</h3>
+      <div class="five">5%</div>
+      <div class="ten">10%</div>
+      <div class="fifteen">15%</div>
+      <div class="twentyfive">25%</div>
+      <div class="fifty">50%</div>
+      <div class="customPercent">Custom</div>
+    </div><!-- End of Select Tip -->
+    <div class="numPeople">
+      <h3>Number of People</h3>
+      <img src="./images/icon-person.svg" alt="Icon of a generic person">
+      <input type="text" placeholder="5">
+    </div>
+    <div class="results">
+      <div class="tipPerPerson">
+        <h2>Tip Amount / person</h2>
+        <p>2.27</p>
+      </div>
+      <div class="totalPerPerson">
+        <h2>Total / person</h2>
+        <p></p>
+      </div>
+      <button>RESET</button>
+    </div>
+    <!-- End of Results -->
+  </div><!-- End of Calculator Card -->
   <div class="attribution">
     <p>Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. Coded by <a href="#">Steven Noyes</a>.</p>
   </div>
+  <script src="./js/script.js"></script>
 </body>
 </html>
