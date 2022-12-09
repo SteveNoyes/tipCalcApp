@@ -30,8 +30,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://your-solution-url.com)
-- Live Site URL: [GitHub Pages](https://pages.github.com/)
+- Solution URL: [GitHub Repo](https://github.com/SteveNoyes/tipCalcApp)
+- Live Site URL: [GitHub Pages](https://stevenoyes.github.io/tipCalcApp/)
 
 ## My process
 
