@@ -63,6 +63,8 @@ Your users should be able to:
 
 - [text spacing](https://www.w3schools.com/css/css_text_spacing.asp) - Spacing for the top header was made easier with this.
 
+- [CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) - CSS Grid Layout for select buttons.
+
 ## Author
 
 - Website - [Portfolio](https://www.stevenmnoyes.com)
