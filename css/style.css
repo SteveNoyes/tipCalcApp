@@ -80,39 +80,34 @@ body {
 
 
 
-
-
-
-
-
-@media (min-width: 1440) {
+@media (min-width: 1440px) {
   /* Select Tip Grid Section Layout  */
-  .wrapper {
+  .selectTip {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
-  }
-  .one {
-    grid-column: 1;
-    grid-row: 1;
-  }
-  .two {
-    grid-column: 2;
-    grid-row: 1;
-  }
-  .three {
-    grid-column: 1;
-    grid-row: 2;
-  }
-  .four {
-    grid-column: 2;
-    grid-row: 2;
+    gap: 20px;
   }
   .five {
+    grid-column: 1;
+    grid-row: 1;
+  }
+  .ten {
+    grid-column: 2;
+    grid-row: 1;
+  }
+  .fifteen {
+    grid-column: 1;
+    grid-row: 2;
+  }
+  .twnetyFive {
+    grid-column: 2;
+    grid-row: 2;
+  }
+  .fifty {
     grid-column: 3;
     grid-row: 1;
   }
-  .six {
+  .customPercent {
     grid-column: 3;
     grid-row: 2;
   }
