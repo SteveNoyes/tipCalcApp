@@ -3,11 +3,16 @@
 /* Primary */
 --strong-cyan: hsl(172, 67%, 45%);
 /* Neutral */
+/* btn bg */
 --very-dark-cyan: hsl(183, 100%, 15%);
+
 --dark-grayish-cyan: hsl(186, 14%, 43%);
+
 --grayish-cyan: hsl(184, 14%, 56%);
+/* body bg */
 --light-grayish-cyan: hsl(185, 41%, 84%);
 --very-light-grayish-cyan: hsl(189, 41%, 97%);
+/* card color */
 --white: hsl(0, 0%, 100%);
 }
 /* font size (form inputs) 24px */
@@ -40,7 +45,6 @@ body {
 }
 
 .tipOption {
-  border: 1px solid blue;
   padding: 1rem;
   text-align: center;
 }
