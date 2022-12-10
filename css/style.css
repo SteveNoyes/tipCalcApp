@@ -24,44 +24,52 @@ body {
   padding: 2rem;
 }
 
-.tipOption {
-  border: 1px solid blue;
-}
-
 .totalDisplay input::placeholder {
   text-align: end;
 }
 
-
-
-
+.selectTipTitle {
+  margin: 2rem auto;
+}
 
 .selectTip {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 10px;
+  gap: 20px;
   /* grid-auto-rows: minmax(55px, auto); */
 }
+
+.tipOption {
+  border: 1px solid blue;
+  padding: 1rem;
+  text-align: center;
+}
+
 .five {
   grid-column: 1;
   grid-row: 1;
 }
+
 .ten {
   grid-column: 2;
   grid-row: 1;
 }
+
 .fifteen {
   grid-column: 1;
   grid-row: 2;
 }
+
 .twentyFive {
   grid-column: 2;
   grid-row: 2;
 }
+
 .fifty {
   grid-column: 1;
   grid-row: 3;
 }
+
 .customPercent {
   grid-column: 2;
   grid-row: 3;
@@ -83,7 +91,6 @@ body {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
-    grid-auto-rows: minmax(100px, auto);
   }
   .one {
     grid-column: 1;
@@ -109,11 +116,5 @@ body {
     grid-column: 3;
     grid-row: 2;
   }
-
-
-
-
-
-
-
+  /* End of Select Tip Grid Section  */
 }

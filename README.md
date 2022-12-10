@@ -57,7 +57,7 @@ Your users should be able to:
 
 ### Useful resources
 
-- [How to Center a Div](https://blog.devgenius.io/3-ways-to-center-a-div-with-css-3df9e66dbd42) - This helped me for XYZ reason. I really liked this pattern and will use it going forward. 
+- [How to Center a Div](https://blog.devgenius.io/3-ways-to-center-a-div-with-css-3df9e66dbd42) - My perennial google. 
 
 - [box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow) - Box shadow for button and div sections. 
 
