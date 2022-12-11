@@ -32,6 +32,17 @@ main {
   justify-content: center;
 }
 
+input {
+  border: none;
+  width: 100%;
+}
+
+input::placeholder {
+  font-family: 'Space Mono', sans-serif, monospace;
+  text-align: end;
+  background-color: var(--very-light-grayish-cyan);
+}
+
 .splitterLogo {
   margin: 3rem auto;
 }
@@ -50,10 +61,6 @@ h3 {
 .calcCard h1 {
   color: var(--grayish-cyan);
   margin-bottom: .5rem;
-}
-
-.totalDisplay input::placeholder {
-  text-align: end;
 }
 
 .selectTipTitle {
