@@ -59,7 +59,7 @@ Your users should be able to:
 
 - [How to Center a Div](https://blog.devgenius.io/3-ways-to-center-a-div-with-css-3df9e66dbd42) - My perennial google. 
 
-- [box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow) - Box shadow for button and div sections. 
+- [variable to number](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number) - make sure input variables are numbers not strings
 
 - [javascript percentage](https://stackoverflow.com/questions/4372902/javascript-calculate-x-of-a-number) - who said you won't have a calculator in your pocket.
 
