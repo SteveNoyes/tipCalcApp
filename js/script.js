@@ -1,10 +1,16 @@
 // Variable List
 // - bill
+let bill = document.getElementById('billTotal');
 // - selectedTipPercentage
+let selectedTipPercentage = 0;
 // - numberOfPeople
 // - tipPerPerson
 // - totalPerPerson
 // - resetBtn
+
+function five() {
+  document.getElementById('five').style.backgroundColor = 'red';
+}
 
 // Client enters bill total
   // Test for how many decimal places, round to two places
