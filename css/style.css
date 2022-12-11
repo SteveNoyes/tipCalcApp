@@ -17,6 +17,11 @@
 /* card color */
 --white: hsl(0, 0%, 100%);
 }
+
+/* CRUD */
+/* increase the height of both inputs
+and the placement of the placeholder, right margin */
+
 /* font size (form inputs) 24px */
 /* font weight 700 */
 body {

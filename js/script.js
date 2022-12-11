@@ -1,3 +1,11 @@
+// Variable List
+// - bill
+// - selectedTipPercentage
+// - numberOfPeople
+// - tipPerPerson
+// - totalPerPerson
+// - resetBtn
+
 // Client enters bill total
 
 // Selects tip percentage 
@@ -11,3 +19,5 @@
 // tip / number of people = individual tip amount
 
 // total / number of people = individual total amount (including tip)
+
+// reset button sets bill and number of people to zero
