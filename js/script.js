@@ -5,29 +5,25 @@ let bill = 0;
 let selectedTipPercentage = 0;
 // - numberOfPeople
 let numberOfPeople = 0;
+
+let testResult = 0;
+let sum = 0;
 // - tipPerPerson
 // - totalPerPerson
 
 function five() {
-  let bill = document.getElementById('billTotal').value;
-  if(bill == 0) {
-    console.log('you idiot');
-  }
+  bill = document.getElementById('billTotal').value;
   document.getElementById('five').style.backgroundColor = 'var(--strong-cyan)';
-
-  let testResult = (5 / 100) * bill;
-  let sum = Number(testResult) + Number(bill);
-
+  testResult = (5 / 100) * bill;
+  sum = Number(testResult) + Number(bill);
   // update tipPerPerson, default to one person
   document.getElementById('tipPerPerson').innerHTML = testResult;
   // update totalPerPerson, default to one person
   document.getElementById('totalPerPerson').innerHTML = sum;
-  // check if number of people is 0
-
 }
 
 function checkSum() {
-  console.log('hello noyes');
+  console.log(this);
 }
 
 // Client enters bill total
