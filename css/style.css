@@ -98,20 +98,34 @@ h3 {
   grid-row: 3;
 }
 
+.numPeople {
+  margin-bottom: 2rem;
+}
+
 .numPeople h3 {
   margin-bottom: .5rem;
 }
 
 .results {
-  border: 1px solid red;
+  padding: 1rem;
+  background-color: var(--very-dark-cyan);
+  border-radius: 10px;
 }
 
 .tipPerPerson {
   display: flex;
 }
 
+.totalPerPerson {
+  display: flex;
+}
+
 .tipPerPerson span {
-  flex-direction: row;
+  display: flex;
+}
+
+.totalPerPerson span {
+  display: flex;
 }
 
 @media (min-width: 1440px) {
