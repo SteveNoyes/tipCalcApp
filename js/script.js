@@ -7,6 +7,7 @@
 // - resetBtn
 
 // Client enters bill total
+  // Test for how many decimal places, round to two places
 
 // Selects tip percentage 
 

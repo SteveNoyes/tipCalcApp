@@ -65,6 +65,8 @@ Your users should be able to:
 
 - [CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) - CSS Grid Layout for select buttons.
 
+- [number input hide side scroll](https://www.w3schools.com/howto/howto_css_hide_arrow_number.asp) - hide number input side scroll 
+
 ## Author
 
 - Website - [Portfolio](https://www.stevenmnoyes.com)
