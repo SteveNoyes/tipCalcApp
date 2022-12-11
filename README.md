@@ -67,6 +67,11 @@ Your users should be able to:
 
 - [number input hide side scroll](https://www.w3schools.com/howto/howto_css_hide_arrow_number.asp) - hide number input side scroll 
 
+
+- [input value](https://www.tutorialrepublic.com/faq/how-to-get-the-value-of-text-input-field-using-javascript.php)
+
+- [function on value change](https://stackoverflow.com/questions/4886114/how-can-i-run-a-javascript-function-when-input-changes)
+
 ## Author
 
 - Website - [Portfolio](https://www.stevenmnoyes.com)
