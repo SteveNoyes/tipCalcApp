@@ -61,7 +61,7 @@ Your users should be able to:
 
 - [box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow) - Box shadow for button and div sections. 
 
-- [text spacing](https://www.w3schools.com/css/css_text_spacing.asp) - Spacing for the top header was made easier with this.
+- [javascript percentage](https://stackoverflow.com/questions/4372902/javascript-calculate-x-of-a-number) - who said you won't have a calculator in your pocket.
 
 - [CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) - CSS Grid Layout for select buttons.
 

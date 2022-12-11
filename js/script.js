@@ -1,15 +1,19 @@
 // Variable List
 // - bill
-let bill = document.getElementById('billTotal');
+let bill = 0;
 // - selectedTipPercentage
 let selectedTipPercentage = 0;
 // - numberOfPeople
+let numberOfPeople = 0;
 // - tipPerPerson
 // - totalPerPerson
-// - resetBtn
-
 function five() {
+  let bill = document.getElementById('billTotal').value;
   document.getElementById('five').style.backgroundColor = 'red';
+
+  var testResult = (5 / 100) * bill;
+
+  console.log(testResult);
 }
 
 // Client enters bill total
